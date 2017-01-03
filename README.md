@@ -1,2 +1,4 @@
-# org.lightfor.hashids
+# org.lightfor.id
 id generator
+
+# use HashIds
